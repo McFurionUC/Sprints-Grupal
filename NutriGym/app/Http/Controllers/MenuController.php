@@ -216,8 +216,6 @@ private function filtrarAlimentosConIA($alimentos, $preferencias, $cantidad = 9)
 }
 
 
-
-
     // ✅ PROCESAR RESPUESTA DE IA (actualizado para mantener objetos completos)
     private function procesarRespuestaFiltrado($respuestaIA, $alimentos, $cantidad)
     {
